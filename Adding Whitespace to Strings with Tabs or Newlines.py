@@ -1,0 +1,2 @@
+print('Example')
+print('\tExample')
