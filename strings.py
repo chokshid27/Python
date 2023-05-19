@@ -1,0 +1,5 @@
+"This is a string"
+"This is also a string"
+"I told my friend, "Python is my favorite language!"
+"The language 'python is named after Monthly python, not the snake."
+"One of python's strengths is its diverse and supportive community."
